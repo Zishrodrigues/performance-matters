@@ -1,6 +1,8 @@
 # Performance matters
 
-## Initial speedtests
+## Initial speedtests (network throttle: Regular 2G 300ms, 250kb/s, 50kb/s)
+
+![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/master/screenshots/bootstrap-network.jpg)
 
 ## Project setup
 
