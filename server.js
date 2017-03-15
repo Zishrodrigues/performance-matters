@@ -3,8 +3,9 @@ const nunjucks = require('nunjucks');
 const path = require('path');
 const routeStatic = require('./lib/route-static');
 const redirectIndices = require('./lib/redirect-indices');
-
+const compress = require('compression');
 const app = express();
+app.use(compress());
 const baseDir = 'src';
 const port = process.env.PORT || 3004;
 
@@ -30,4 +31,3 @@ app.get('*', (req, res, next) => {
 app.listen(port, (err) => {
     err ? console.error(err) : console.log(`app running on http://localhost:${port}`);
 });
-
