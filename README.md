@@ -21,9 +21,9 @@ The page got a *48 out of 100* score. This is not good. The following feedback p
 ## Image compression speedtests (network throttle: Regular 2G 300ms, 250kb/s, 50kb/s)
 =======
 
-```
-## Image
-```
+
+## **Image**
+
 ## Project setup
 
 This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages).
