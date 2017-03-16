@@ -4,7 +4,7 @@ I did an Audit of the Bootstrap documentation website. In each branch I added fu
 
 [Audit of the Bootstrap documentation website](AUDIT.md)
 
-List of branche specific README's:
+List of branch specific README's:
 
 * [Images optimization](https://github.com/Zishrodrigues/performance-matters-bootstrap/tree/feature/images)
 * [CSS optimization](https://github.com/Zishrodrigues/performance-matters-bootstrap/tree/feature/css)
