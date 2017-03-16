@@ -1,21 +1,16 @@
-# Performance matters
-
-## Initial speedtests (network throttle: Regular 2G 300ms, 250kb/s, 50kb/s)
+# css minify speedtests (network throttle: Regular 2G 300ms, 250kb/s, 50kb/s)
 
 ### Network http request / network speedtest
 
-![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/master/screenshots/bootstrap-network.jpg)
+![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/feature/css/screenshots/bootstrap-network-css.jpg)
 
-The total loading time on a Regular 2G 300ms connection was *41,92 seconds*. A lot of this has to do with images, fonts and unefficient code.
+The loading time with css minified and with critical css was 32.32 seconds. We saved 10 seconds by fixing the css.
 
 ### Google Pagespeed test
 
-![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/master/screenshots/bootstrap-pagespeed.jpg)
+![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/feature/css/screenshots/bootstrap-pagespeed-css.jpg)
 
-The page got a *48 out of 100* score. This is not good. The following feedback points came up:
-* Javascript and CSS position
-* Minimizing files
-* Image compression
+Somehow got a *49 out of 100* score. This is not good. I don't know why the wizards at pagespeed did this to us as the total loading time did decrease and we didn't get any new feedback points.
 
 ## Project setup
 
