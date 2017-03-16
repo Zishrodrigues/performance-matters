@@ -1,6 +1,6 @@
 # Performance matters
 
-I did an Audit of the Bootstrap documentation website. In each branch I added functionality or optimization which makes the page ever so fast. Check the [AUDIT.md](AUDIT.md) file for my first test and tot result. Check the README.md of each branch to see how the specific optimization impacted speed.
+I did an Audit of the Bootstrap documentation website. In each branch I added functionality or optimization which makes the page ever so fast. Check the [AUDIT.md](AUDIT.md) file for my first test and tot result. Check the README.md of each branch to see how the specific optimization impacted speed. The development branch was used for our final test.
 
 [Audit of the Bootstrap documentation website](AUDIT.md)
 
