@@ -1,21 +1,15 @@
 # Performance matters
 
-## Initial speedtests (network throttle: Regular 2G 300ms, 250kb/s, 50kb/s)
+I did an Audit of the Bootstrap documentation website. In each branch I added functionality or optimization which makes the page ever so fast. Check the [AUDIT.md](AUDIT.md) file for my first test and tot result. Check the README.md of each branch to see how the specific optimization impacted speed.
 
-### Network http request / network speedtest
+[Audit of the Bootstrap documentation website](AUDIT.md)
 
-![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/master/screenshots/bootstrap-network.jpg)
+List of branche specific README's:
 
-The total loading time on a Regular 2G 300ms connection was *41,92 seconds*. A lot of this has to do with images, fonts and unefficient code.
-
-### Google Pagespeed test
-
-![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/master/screenshots/bootstrap-pagespeed.jpg)
-
-The page got a *48 out of 100* score. This is not good. The following feedback points came up:
-* Javascript and CSS position
-* Minimizing files
-* Image compression
+* [Images optimization](https://github.com/Zishrodrigues/performance-matters-bootstrap/tree/feature/images)
+* [CSS optimization](https://github.com/Zishrodrigues/performance-matters-bootstrap/tree/feature/css)
+* [JS optimization](https://github.com/Zishrodrigues/performance-matters-bootstrap/tree/feature/js)
+* [Compression](https://github.com/Zishrodrigues/performance-matters-bootstrap/tree/feature/compress)
 
 ## Project setup
 
