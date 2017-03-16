@@ -21,13 +21,13 @@ The page got a *48 out of 100* score. This is not good. The following feedback p
 
 ### Network http request / network speedtest
 
-![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/master/screenshots/bootstrap-network-images.jpg)
+![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/feature/images/screenshots/bootstrap-network-images.jpg)
 
 Compressing images and reducing their pixel size had a huge impact on loading time. I experienced gains of almost 20 seconds on a 2G, 300ms network throttle. We went from 41 seconds to 21 seconds.
 
 ### Google Pagespeed test
 
-![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/master/screenshots/bootstrap-pagespeed-images.jpg)
+![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/feature/images/screenshots/bootstrap-pagespeed-images.jpg)
 
 Our pagespeed test result came out slightly better than before. Giving us a 65 / 100 on desktop and a 54 / 100 on mobile.
 
