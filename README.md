@@ -6,7 +6,7 @@ I did an Audit of the Bootstrap documentation website. In each branch I added fu
 
 List of branche specific README's:
 
-* [Images optimization](feature/images/README.md)
+* [Images optimization](tree/feature/images/README.md)
 
 ## Project setup
 
