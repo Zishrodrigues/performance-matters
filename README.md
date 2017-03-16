@@ -17,7 +17,11 @@ The page got a *48 out of 100* score. This is not good. The following feedback p
 * Minimizing files
 * Image compression
 
+<<<<<<< HEAD
 ## Image compression speedtests (network throttle: Regular 2G 300ms, 250kb/s, 50kb/s)
+=======
+## Image
+>>>>>>> feature/images
 
 ## Project setup
 
