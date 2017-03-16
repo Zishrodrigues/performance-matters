@@ -1,6 +1,12 @@
 # Performance matters
 
-d
+I did an Audit of the Bootstrap documentation website. In each branch I added functionality or optimization which makes the page ever so fast. Check the [AUDIT.md](AUDIT.md) file for my first test and tot result. Check the README.md of each branch to see how the specific optimization impacted speed.
+
+[Audit of the Bootstrap documentation website](AUDIT.md)
+
+List of branche specific README's:
+
+* [Images optimization](feature/images/README.md)
 
 ## Project setup
 
