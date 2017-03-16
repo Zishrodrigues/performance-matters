@@ -11,6 +11,7 @@ The total loading time on a Regular 2G 300ms connection was *30.13 seconds*. Thi
 ![alt tag](https://raw.githubusercontent.com/zishrodrigues/performance-matters/feature/js/screenshots/bootstrap-pagespeed-js.jpg)
 
 The page got a *53 out of 100* score. This is clearly better than before. We no longer have the minify Javascript feedback point!
+
 ## Project setup
 
 This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages).
