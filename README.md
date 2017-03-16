@@ -1,4 +1,4 @@
-# css minify speedtests (network throttle: Regular 2G 300ms, 250kb/s, 50kb/s)
+# minify and critical css speedtests (network throttle: Regular 2G 300ms, 250kb/s, 50kb/s)
 
 ### Network http request / network speedtest
 
